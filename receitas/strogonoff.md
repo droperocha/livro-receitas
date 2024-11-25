@@ -1,5 +1,5 @@
-#Strogonoff de Frango
-**Negrito** _italico_
+# Strogonoff de Frango :chiken:
+// **Negrito** _italico_
 ###Ingredientes
  - 1 quilo de peito de frango sem pele
  - 1 tablete de caldo de galinha
@@ -11,4 +11,4 @@
  - Champignon à gosto
  - Batata Pala e arroz branco para acompanhar
 
-###Modo de Preparo
+### Modo de Preparo
